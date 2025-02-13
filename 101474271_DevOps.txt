@@ -1,0 +1,2 @@
+**COMP2156 – DevOps Course Overview**  
+This course provides an in-depth understanding of DevOps principles, covering key concepts such as Continuous Integration and Continuous Deployment (CI/CD), automation, and cloud computing.
