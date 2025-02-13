@@ -11,3 +11,5 @@ Explore automation tools to reduce manual tasks and improve system consistency.
 Gain hands-on experience with cloud computing platforms to manage scalable infrastructure.
 Understand containerization and orchestration using technologies like Docker and Kubernetes.
 Collaborate using Git and GitHub workflows for version control and team-based development.
+
+By the end of the course, students will have practical experience in deploying and managing applications in a DevOps environment, preparing them for real-world system administration and cloud computing roles.
