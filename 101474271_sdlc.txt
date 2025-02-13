@@ -1,1 +1,8 @@
 The Software Development Life Cycle (SDLC) in a DevOps environment focuses on automating and streamlining the traditional development process to ensure faster and more reliable software delivery. DevOps integrates development (Dev) and operations (Ops) teams, enhancing collaboration and efficiency throughout the SDLC phases.
+Key Phases of SDLC in DevOps:
+Planning – Defining project goals, gathering requirements, and selecting the right DevOps tools and practices.
+Development – Writing code using version control systems like Git while maintaining collaboration and code quality.
+Build & Integration – Automating code compilation and testing through CI/CD pipelines to detect issues early.
+Testing – Implementing automated testing frameworks to ensure software reliability before deployment.
+Deployment – Using continuous deployment strategies to push updates seamlessly into production environments.
+Monitoring & Feedback – Utilizing monitoring tools to track application performance and provide feedback for continuous improvement.
