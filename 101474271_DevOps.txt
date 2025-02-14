@@ -1,0 +1,15 @@
+**COMP2156 – DevOps Course Overview**  
+This course provides an in-depth understanding of DevOps principles, covering key concepts such as Continuous Integration and Continuous Deployment (CI/CD), automation, and cloud computing.
+
+COMP2156 – DevOps Course Overview
+The COMP2156 – DevOps for System Administration course focuses on modern software development and IT operations practices. It emphasizes Continuous Integration and Continuous Deployment (CI/CD), automation, and cloud computing, enabling students to streamline workflows and enhance system reliability.
+
+Throughout this course, students will:
+
+Learn how to implement CI/CD pipelines for efficient software delivery.
+Explore automation tools to reduce manual tasks and improve system consistency.
+Gain hands-on experience with cloud computing platforms to manage scalable infrastructure.
+Understand containerization and orchestration using technologies like Docker and Kubernetes.
+Collaborate using Git and GitHub workflows for version control and team-based development.
+
+By the end of the course, students will have practical experience in deploying and managing applications in a DevOps environment, preparing them for real-world system administration and cloud computing roles.
