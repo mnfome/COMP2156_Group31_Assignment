@@ -1,1 +1,2 @@
 sldc
+SDLC (Software Development Life Cycle)
