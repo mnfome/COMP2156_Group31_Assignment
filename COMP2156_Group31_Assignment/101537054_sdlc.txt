@@ -1,6 +1,0 @@
-The Software Development Life Cycle (SDLC) is the process used to design, develop, test, and deploy software. It consists of several stages that ensure high-quality software is delivered efficiently.
-Requirement Gathering and Analysis:
-   Understanding the client's needs.
-   Identifying project requirements and constraints.
-   Documenting functional and non-functional requirements.
-   The Software Development Life Cycle (SDLC) is the process used to design, develop, test, and deploy software. It consists of several stages that ensure high-quality software is delivered efficiently.

@@ -1,2 +1,0 @@
-Comp2156, DevOps Course Overview
-By taking this course we can learn CI/CD, Automation and Cloud Compuiting
