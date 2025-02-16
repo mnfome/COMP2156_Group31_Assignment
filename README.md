@@ -4,6 +4,7 @@ Group Members:
 2/ Shihab Hossain_101537054 (https://github.com/mnfome/COMP2156_Group31_Assignment/tree/101537054_Shihab)
 3/ Jannatul Ferdush pushpo_101533454 ( https://github.com/mnfome/COMP2156_Group31_Assignment/tree/101533454_Jannatul )
 4/ Navil Hussain_101450836 (https://github.com/mnfome/COMP2156_Group31_Assignment/tree/101450836_Navil)
+5/ Khaled Al Hammadi_101501518 (https://github.com/mnfome/COMP2156_Group31_Assignment/tree/101501518-Khaled)
 # Project Description
 This project follows DevOps principles for collaboration using GitHub and CI/CD.
 This repository hosts the group assignment for COMP2156 DevOps course, focusing on
