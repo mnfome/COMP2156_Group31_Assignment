@@ -1,2 +1,3 @@
 DevOps
 DevOps is a culture and set of practices that improve collaboration between development (Dev) and operations (Ops) teams.
+ It automates and integrates software development, testing, and deployment to deliver applications faster and more reliably. Key practices include CI/CD, monitoring, infrastructure as code (IaC), and collaboration tools.
