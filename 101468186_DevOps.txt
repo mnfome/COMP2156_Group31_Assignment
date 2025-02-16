@@ -1,1 +1,2 @@
 DevOps
+DevOps is a culture and set of practices that improve collaboration between development (Dev) and operations (Ops) teams.
