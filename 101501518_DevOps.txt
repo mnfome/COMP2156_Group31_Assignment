@@ -1,2 +1,7 @@
 over view of dveops 
 DevOps combines Development (Dev) + Operations (Ops) to automate and streamline software delivery. It emphasizes collaboration, automation, CI/CD, and monitoring for faster, reliable deployments.
+Popular Tools
+CI/CD: Jenkins, GitHub Actions
+Containers: Docker, Kubernetes
+Infrastructure: Terraform, Ansible
+Cloud: AWS, Azure, GCP
