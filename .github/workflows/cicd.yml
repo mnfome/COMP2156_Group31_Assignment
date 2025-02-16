@@ -1,6 +1,5 @@
-name: name: DevOps CI/CD Pipeline
-
-run-name: ${{ github.actor }} is testing out GitHub Actions 🚀  
+name: DevOps CI/CD Pipeline
+run-name: ${{ github.actor }} is testing out GitHub Actions 🚀
 
 on:
   push:
@@ -9,7 +8,6 @@ on:
   pull_request:
     branches:
       - main
-
 
 jobs:
   Explore-GitHub-Actions:
@@ -22,7 +20,7 @@ jobs:
         run: echo "🎉 The job was automatically triggered by a ${{ github.event_name }} event."
 
       - name: Display Runner OS
-        run: echo "🐧 This job is now running on a ${{ runner.os }} server hosted by GitHub!"
+        run: echo "💻 This job is now running on a ${{ runner.os }} server hosted by GitHub!"
 
       - name: Display Branch and Repository Info
         run: echo "🔎 The name of your branch is ${{ github.ref }} and your repository is ${{ github.repository }}."
@@ -31,5 +29,6 @@ jobs:
         run: ls -la ${{ github.workspace }}
 
       - name: Workflow Completion Status
-        run: echo "🍏 This job's status is ${{ job.status }}."
+        run: echo "✅ This job's status is ${{ job.status }}."
+
 
