@@ -7,3 +7,8 @@ Phases of SDLC
 5️⃣ Testing – Find and fix bugs before release.
 6️⃣ Deployment – Release software for users.
 7️⃣ Maintenance – Continuous updates & support.
+ SDLC Models
+Waterfall – Linear, step-by-step process.
+Agile – Iterative & flexible (Scrum, Kanban).
+V-Model – Testing is done at every stage.
+DevOps – Automates development & operations.
